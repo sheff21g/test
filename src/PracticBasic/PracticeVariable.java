@@ -1,4 +1,4 @@
-package Start;
+package PracticBasic;
 
 public class PracticeVariable {
     static void main() {
